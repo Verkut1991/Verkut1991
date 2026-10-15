@@ -25,12 +25,12 @@
 <td>
 I build client apps and services with clean architecture and operational deploy. I develop by orchestrating AI agents: I guide, review and integrate their work into production ready code.
 <br><br>
-Day to day I work with <b>Go</b> and <b>Flutter</b>. I am also comfortable with <b>Java</b>, <b>Node.js</b>, <b>Bash</b> and <b>C#</b>.
+Day to day I work with <b>Go</b> and <b>Flutter</b>. I am also comfortable with <b>Java</b>, <b>Node.js</b>, <b>Bash</b> and <b>C#</b>. Currently I work with <b>Python</b> in data analysis.
 </td>
 <td>
 Construyo apps de cliente y servicios con arquitectura limpia y despliegue operativo. Desarrollo orquestando agentes de IA: guío, reviso e integro su trabajo en código listo para producción.
 <br><br>
-En el día a día trabajo con <b>Go</b> y <b>Flutter</b>. También me manejo con <b>Java</b>, <b>Node.js</b>, <b>Bash</b> y <b>C#</b>.
+En el día a día trabajo con <b>Go</b> y <b>Flutter</b>. También me manejo con <b>Java</b>, <b>Node.js</b>, <b>Bash</b> y <b>C#</b>. Actualmente trabajo con <b>Python</b> en análisis de datos.
 </td>
 </tr>
 </table>
@@ -50,7 +50,7 @@ En el día a día trabajo con <b>Go</b> y <b>Flutter</b>. También me manejo con
 
 | Area | Tools |
 |:---:|:---|
-| Languages | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | Mobile and client | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | Backend and data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
 | Ops | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
