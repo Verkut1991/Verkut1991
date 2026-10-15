@@ -1,22 +1,18 @@
 # Hi, I'm José Andrés
 
-**Full-stack developer** building real products end to end — APIs, apps, data, and deploy.  
-I ship under the **Verkut** brand.
+**EN** — Full-stack developer building real products end to end: APIs, apps, data, and deploy. I ship under the **Verkut** brand.
 
-Hola, soy **José Andrés**. Desarrollador full-stack que construye productos reales de punta a punta: APIs, apps, datos y despliegue.  
-Publico bajo la marca **Verkut**.
+**ES** — Hola, soy **José Andrés**. Desarrollador full-stack: construyo productos reales de punta a punta (APIs, apps, datos y despliegue) y publico bajo la marca **Verkut**.
 
 ---
 
-## About me / Sobre mí
+## About / Sobre mí
 
-- I ship multi-tenant SaaS and client apps with a strong focus on clean architecture and operational deploy.
-- I develop by **orchestrating AI agents** — guiding, reviewing, and integrating their work into production-ready code.
-- Beyond Go and Flutter, I also work comfortably with **Java**, **Bash**, and **C#**.
+**EN** — I build client apps and services with a focus on clean architecture and operational deploy. I develop by orchestrating AI agents: I guide, review, and integrate their work into production-ready code. Day to day I use **Go** and **Flutter**, and I am also comfortable with **Java**, **Node.js**, **Bash**, and **C#**.
 
-- Construyo SaaS multi-tenant y apps de cliente con foco en arquitectura limpia y despliegue operativo.
-- Desarrollo **gestionando agentes de IA**: orquesto, reviso e integro su trabajo en código listo para producción.
-- Además de Go y Flutter, también manejo **Java**, **Bash** y **C#**.
+**ES** — Construyo apps de cliente y servicios con foco en arquitectura limpia y despliegue operativo. Desarrollo orquestando agentes de IA: guío, reviso e integro su trabajo en código listo para producción. En el día a día uso **Go** y **Flutter**, y también me manejo con **Java**, **Node.js**, **Bash** y **C#**.
+
+**Languages / Idiomas** — Spanish (native) · English **B2** · Russian **basic** / Español (nativo) · Inglés **B2** · Ruso **básico**
 
 ---
 
@@ -39,31 +35,50 @@ Publico bajo la marca **Verkut**.
 
 ## Featured projects / Proyectos destacados
 
-### [Fichaje-FX-Suite](https://github.com/Verkut1991/Fichaje-FX-Suite)
+### [Kompot Player](https://github.com/Verkut1991/kompot-player-demo)
 
-Multi-tenant time-tracking SaaS — Go API, Flutter apps (Melos), Postgres with RLS, and VPS deploy.
+**EN** — Music player built so users keep **100% control** over what they listen to and want to hear — with the everyday features you'd expect from platforms like Spotify.
 
-SaaS de control horario multi-tenant: API en Go, apps Flutter (Melos), Postgres con RLS y despliegue en VPS.
-
-### [Kompot Player](https://github.com/Verkut1991/kompot_player)
-
-Music player built so users keep **100% control** over what they listen to and want to hear — with the everyday features you'd expect from platforms like Spotify.
-
-Reproductor musical pensado para que el usuario tenga el **100% de control** sobre lo que escucha y desea escuchar, con las prestaciones habituales de plataformas como Spotify.
+**ES** — Reproductor musical pensado para que el usuario tenga el **100% de control** sobre lo que escucha y desea escuchar, con las prestaciones habituales de plataformas como Spotify.
 
 ### [Complete Cafe Suite](https://github.com/Verkut1991/Complete-cafe-suite-using-Node.js)
 
-Professional-training project: order sync between server and customers (Node.js, Java, Android). Order statuses notify the client app whenever the desktop/server side changes them.
+**EN** — Professional-training project: order sync between server and customers (Node.js, Java, Android). Order statuses notify the client app whenever the desktop/server side changes them.
 
-Proyecto de formación profesional: sincronización de pedidos entre servidor y clientes (Node.js, Java, Android). Los estados del pedido notifican a la app cliente cuando el servidor los cambia desde la aplicación de escritorio.
+**ES** — Proyecto de formación profesional: sincronización de pedidos entre servidor y clientes (Node.js, Java, Android). Los estados del pedido notifican a la app cliente cuando el servidor los cambia desde la aplicación de escritorio.
+
+### [Banchat](https://github.com/Verkut1991/Banchat-chat-en-tiempo-real)
+
+**EN** — Real-time chat demo: React client, Node.js API with Socket.IO, MongoDB, JWT auth, rooms, and friends.
+
+**ES** — Demo de chat en tiempo real: cliente React, API Node.js con Socket.IO, MongoDB, auth JWT, salas y amigos.
+
+### [TFG — time clock and plan sales](https://github.com/Verkut1991/Trabajo-Fin-Ciclo-Sistema-Fichaje-mas-Venta-ReproductorMusical)
+
+**EN** — End-of-cycle, **mono-tenant** multi-client system: time clock plus plan sales, with a Node API, React web, Java desktop, Android, and a Godot kiosk. A companion music player was developed alongside.
+
+**ES** — Trabajo de fin de ciclo, sistema **mono-tenant** y multi-cliente: fichaje y venta de planes, con API Node, web React, escritorio Java, Android y un quiosco Godot. En paralelo se desarrolló un reproductor musical.
+
+### [iEspia](https://github.com/Verkut1991/iespia)
+
+**EN** — Android and Node face-recognition watchlist demo. The interesting part is the pipeline; the README is explicit that using face recognition to track people is an ethics and consent problem, not a product to ship.
+
+**ES** — Demo Android y Node de lista de vigilancia con reconocimiento facial. Lo interesante es el pipeline; el README deja claro que usar el rostro para seguir a personas es un problema de ética y consentimiento, no un producto para lanzar.
+
+### [Ajedrez](https://github.com/Verkut1991/ajedrez)
+
+**EN** — Local Android chess: your own board, rules, a light AI opponent, and a quiet game on the phone.
+
+**ES** — Ajedrez local en Android: tablero propio, reglas, una IA ligera y una partida tranquila en el móvil.
+
+### [Acode](https://github.com/Verkut1991/acode)
+
+**EN** — Fork of the MIT Android code editor [Acode](https://github.com/deadlyjack/acode). My piece is pull-to-refresh on the file tree.
+
+**ES** — Fork del editor de código Android [Acode](https://github.com/deadlyjack/acode) (MIT). Mi aporte es el refresco deslizando hacia abajo en el árbol de archivos.
 
 ---
 
 ## Contact / Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-Verkut1991-181717?style=flat-square&logo=github)](https://github.com/Verkut1991)
-
----
-
-*Building software with intention — one product at a time.*  
-*Construyendo software con intención — un producto cada vez.*
