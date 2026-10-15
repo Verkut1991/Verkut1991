@@ -151,14 +151,6 @@ Repo: [acode](https://github.com/Verkut1991/acode) · Upstream: [deadlyjack/acod
 
 </details>
 
-## Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Verkut1991&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6" alt="GitHub stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verkut1991&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
-
 ## Contact / Contacto
 
 <div align="center">
